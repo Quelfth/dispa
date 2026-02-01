@@ -4,4 +4,4 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
-dispa-macros.path = "../dispa-macros"
+dispa-macros.git = "https://github.com/Quelfth/dispa-macros"
