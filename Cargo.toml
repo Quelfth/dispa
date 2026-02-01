@@ -1,0 +1,7 @@
+[package]
+name = "dispa"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+dispa-macros.path = "../dispa-macros"
